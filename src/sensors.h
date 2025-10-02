@@ -1,5 +1,5 @@
-#ifndef TMP36_H_
-#define TMP36_H_
+#ifndef SENSOR_H_
+#define SENSOR_H_
 
 
 void initAdc();
@@ -9,5 +9,5 @@ void readLDR();
 void printSensorValue();
 
 
-#endif /* TMP36_H_ */
+#endif /* SENSOR_H_ */
 
